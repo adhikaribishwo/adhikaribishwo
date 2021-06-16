@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bishwo
+- 👋 Hi, I’m Bishwo Adhikari
 - 👀 I’m interested in ML, Computer vision, Data Analysis
 - 🌱 I’m currently learning ML, Computer Vision, Deep Learning, & Data Science
 
