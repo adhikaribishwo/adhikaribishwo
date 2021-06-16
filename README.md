@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Bishwo Adhikari
-- 👀 I’m interested in ML, Computer vision, Data Analysis
+- 👋 Hi, I’m Bishwo Adhikari, reasercher at Tampere University.
+- 👀 I’m interested in Machine Learning, Deep Learning and Data Engineering
 - 🌱 I’m currently learning ML, Computer Vision, Deep Learning, & Data Science
 
 <!---
