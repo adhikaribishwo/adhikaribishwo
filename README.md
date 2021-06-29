@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Bishwo Adhikari, reasercher at Tampere University.
-- 👀 I’m interested in Machine Learning, Deep Learning, and Data Engineering
+- 👀 I’m interested in Machine Learning, Deep Learning, Object Detection, and Image Annotation
+- 👨🏻‍💻 Data Science Enthusiast
 
 <!---
 - 🌱 I’m currently learning ML, Computer Vision, Deep Learning, & Data Science
