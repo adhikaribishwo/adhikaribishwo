@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Bishwo, researcher at Tampere University, Finland.
-- 👀 Interested in Machine Learning, Deep Learning, Object Detection, and Image Annotation
-- 👨🏻‍💻 Data Science Enthusiast
+- 👋 Hi, I am a doctoral researcher at Tampere University, Finland.
+- 👀 Interested in Machine Learning, Deep Learning, Object Detection, and Efficeint Image Annotation
+- 👨🏻‍💻 Technology Enthusiast
 
 <!---
 - 🌱 I’m currently learning ML, Computer Vision, Deep Learning, & Data Science
