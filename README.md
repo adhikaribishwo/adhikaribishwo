@@ -1,5 +1,5 @@
 - 👋 Hi, I am a doctoral researcher at Tampere University, Finland.
-- 👀 Interested in Machine Learning, Deep Learning, Object Detection, and Efficeint Image Annotation
+- 👀 I'm interested in Machine Learning, Deep Learning, Object Detection, and Efficeint Image Annotation
 - 👨🏻‍💻 Technology Enthusiast
 
 <!---
