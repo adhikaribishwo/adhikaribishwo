@@ -1,7 +1,7 @@
-- 👋 Hi, I am Bishwo Adhikari (PhD), currently working as AI scientists at Silo AI 
+- 👋 Hi, I am Bishwo Adhikari (PhD), currently working as AI scientist at [Silo AI](https://www.silo.ai/), Finland 
 - 👀 I'm interested in Machine Learning, Deep Learning, Object Detection, and Efficeint Image Annotation
+- 🌱 I’m trying to keep up-to-date with recent advancements in AI, ML, tech industry, & Fin-tech
 - 👨🏻‍💻 Technology Enthusiast
-- 🌱 I’m trying to keep up-to-date with recent advancements in AI, ML, tech industry, & Fin-tech. 
 
 <!---
 - 🌱 I’m currently learning ML, Computer Vision, Deep Learning, & Data Science
